@@ -1,0 +1,6 @@
+name: Nested_Templateblah
+version: 1.0.0
+description: References a nested template
+engine:
+  type: ARM2
+  templatePath: azuredeploy.json
