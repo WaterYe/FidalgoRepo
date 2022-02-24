@@ -4,11 +4,11 @@
     "parameters": {
         "name": {
             "type": "string",
-            "defaultValue": "UserIdentity",
+            "defaultValue": "UserIdentity"
         },
         "location": {
             "type": "string",
-            "defaultValue": "Southeast Asia",
+            "defaultValue": "Southeast Asia"
         }
     },
     "resources": [
